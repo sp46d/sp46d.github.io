@@ -3,7 +3,7 @@ author:
   name: Sanghyuk Park (Will)
   email: sanghyuk.park85@gmail.com
 
-theme: minima
+theme: jekyll-theme-minima
 
 plugins:
   - jekyll-feed
