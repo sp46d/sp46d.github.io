@@ -2,7 +2,7 @@ title: My Blog
 email: sanghyuk.park85@gmail.com
 github_username: sp46d
 
-theme: jekyll-theme-minima
+theme: minima
 plugins:
   - jekyll-feed
   
